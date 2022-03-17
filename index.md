@@ -135,7 +135,7 @@ please check your spam folder and email instructor.training@carpentries.org with
 {% endif %}
 {% endfor %}
 
-{% if inperson == "true" %}
+{% if inperson == "false" %}
 
 <h4 id="accessibility">Accessibility</h4>
 
