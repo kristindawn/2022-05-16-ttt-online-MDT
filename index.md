@@ -107,7 +107,8 @@ site.swc_site }}/conduct/">Code of Conduct</a>.
   if the latitude and longitude of the workshop have been set.  You
   can use http://itouchmap.com/latlong.html to find the lat/long of an
   address.
-  -->
+-->
+  
 <h3 id="where">Where</h3>
 
 {% assign inperson = "false" %}
@@ -171,6 +172,7 @@ Before your training, please visit our Preparing for Instructor Training page fo
 <h3> Checkout: The Instructor Certification Process</h3>
 After the training event, we ask you to complete three follow-up tasks to become a certified Instructor. These requirements are detailed on our 
   <a href="{{ site.training_site }}/checkout/">Checkout Instructions</a> page and will be discussed at our training. 
+  
 <!--  
 <h3>What to Bring to an In-Person Event</h3>
 
@@ -181,6 +183,7 @@ are going to record one another teaching in pairs or threes. It does not have
 to be high-quality, but it should be good enough that you can understand what
 someone is saying.
 -->
+
 <h3>Attendance and Cancellation</h3>
 Trainees who miss more than 1 hour of the training may be marked absent. 
 Instructor certification cannot be completed without full attendance at 
@@ -316,18 +319,19 @@ FOUR DAY SCHEDULE
       <tr> <td>10:45</td> <td>Expertise and Instruction </td> </tr>
       <tr> <td>11:30</td> <td>Memory and Cognitive Load </td> </tr>
       <tr> <td>12:15</td> <td>Building Skill with Feedback </td> </tr>
-      <tr> <td>12:35</td> <td>Finish day 1 </td> </tr>
+      <tr> <td>12:35</td> <td>Finish Day 1 </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
-      <tr> <td>13:35</td> <td>Motivation and Demotivation </td> </tr>
-      <tr> <td>14:35</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
-      <tr> <td>15:15</td> <td>Break </td> </tr>
-      <tr> <td>15:30</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>16:30</td> <td>Wrap-up and Homework </td> </tr>
-      <tr> <td>16:50</td> <td>Finish day 2</td> </tr>
+      <tr> <td>09:00</td> <td>Welcome Back</td> </tr>
+      <tr> <td>09:10</td> <td>Motivation and Demotivation </td> </tr>
+      <tr> <td>10:10</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
+      <tr> <td>10:50</td> <td>Break </td> </tr>
+      <tr> <td>11:05</td> <td>Teaching Is a Skill </td> </tr>
+      <tr> <td>12:05</td> <td>Wrap-up and Homework </td> </tr>
+      <tr> <td>12:25</td> <td>Finish Day 2</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
@@ -339,20 +343,21 @@ FOUR DAY SCHEDULE
       <tr> <td>10:25</td> <td>Break </td> </tr>
       <tr> <td>10:40</td> <td>Live Coding Is a Skill </td> </tr>
       <tr> <td>11:45</td> <td>Preparing to Teach </td> </tr>
-      <tr> <td>12:30</td> <td>Finish day 3 </td> </tr>
+      <tr> <td>12:30</td> <td>Finish Day 3</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 4</h3>
     <table class="table table-striped">
-      <tr> <td>13:30</td> <td>More Practice Live Coding </td> </tr>
-      <tr> <td>14:15</td> <td>Working with Your Team</td> </tr>
-      <tr> <td>15:25</td> <td>Break </td> </tr>
-      <tr> <td>15:40</td> <td>Launches and Landings </td> </tr>
-      <tr> <td>16:20</td> <td>Putting it Together </td> </tr>
-      <tr> <td>16:40</td> <td>Wraping Up </td> </tr>
-      <tr> <td>16:50</td> <td>Post-Training Survey </td> </tr>
-      <tr> <td>17:05</td> <td>Finish </td> </tr>
+      <tr> <td>09:00</td> <td>Welcome Back</td> </tr>
+      <tr> <td>09:10</td> <td>More Practice Live Coding </td> </tr>
+      <tr> <td>09:55</td> <td>Working with Your Team</td> </tr>
+      <tr> <td>11:05</td> <td>Break </td> </tr>
+      <tr> <td>11:20</td> <td>Launches and Landings </td> </tr>
+      <tr> <td>12:00</td> <td>Putting it Together </td> </tr>
+      <tr> <td>12:20</td> <td>Wraping Up </td> </tr>
+      <tr> <td>12:30</td> <td>Post-Training Survey </td> </tr>
+      <tr> <td>12:45</td> <td>Finish Day 4</td> </tr>
     </table>
   </div>
 </div>
