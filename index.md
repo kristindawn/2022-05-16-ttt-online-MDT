@@ -16,9 +16,7 @@ locations:            # for online events, delete the second section below. for 
   - venue: "Online" 
     #address: ""
 
-  - #venue: "" 
-    #address: ""
-    #latlng: ""
+
 
 ---
 
